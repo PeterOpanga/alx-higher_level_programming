@@ -44,4 +44,4 @@ When do we need to implement a clean-up action after an exception
 ---
 
 ## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
+* **Peter Opanga** - [@PeterOpanga](https://github.com/PeterOpanga)
